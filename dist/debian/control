@@ -1,13 +1,13 @@
-Source:
-Section: unknown
+Source: hellogcs
+Section: misc
 Priority: optional
-Maintainer:
+Maintainer: Gustavo Moreira <gustavomn93@gmail.com>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.6
 Homepage: <insert the upstream URL, if relevant>
 
-Package:
+Package: hellogcs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: this is a app for build an .deb project
+ The hellogcs project is for the GCS discipline and improve our knowledges.
