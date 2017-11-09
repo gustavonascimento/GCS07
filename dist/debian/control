@@ -4,7 +4,6 @@ Priority: optional
 Maintainer: Gustavo Moreira <gustavomn93@gmail.com>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.6
-Homepage: <insert the upstream URL, if relevant>
 
 Package: hellogcs
 Architecture: any

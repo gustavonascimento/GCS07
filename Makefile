@@ -1,6 +1,6 @@
 CC = g++
 
-prefix = /usr/local
+prefix = /usr
 bindir = $(prefix)/bin
 vardir = $(prefix)/var/hellogcs
 
